@@ -6,7 +6,7 @@
 [Day 2 - Embeddings and similarity scores](https://www.kaggle.com/code/markishere/day-2-embeddings-and-similarity-scores)  
 [Day 2 - Classifying-embeddings](https://www.kaggle.com/code/markishere/day-2-classifying-embeddings-with-keras)  
 
-[Day 3 - AI Agent - Function calling with the Gemini API](https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api)
+[Day 3 - AI Agent - Function calling with the Gemini API](https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api)  
 [Day 3 - AI Agent - Building an agent with LangGraph](https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/)
 
 
