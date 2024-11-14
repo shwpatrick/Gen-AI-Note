@@ -1,5 +1,6 @@
-[程式碼實作參考 : 檢索強化生成 RAG](https://www.kaggle.com/code/markishere/day-2-document-q-a-with-rag)
- 
+[程式碼實作參考：檢索強化生成(RAG)-在Prompt中加入資料庫](https://www.kaggle.com/code/markishere/day-2-document-q-a-with-rag)
+[程式碼實作參考：檢索資料與資料庫的相似性比對](https://www.kaggle.com/code/markishere/day-2-embeddings-and-similarity-scores)
+[程式碼是做參考：透過嵌入資料庫實現新聞分類器](https://www.kaggle.com/code/markishere/day-2-classifying-embeddings-with-keras) 
 
 ## 嵌入在大型語言模型 (LLM) 的應用
 
