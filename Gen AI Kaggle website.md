@@ -15,4 +15,4 @@
 [Day 1 - Foundational LLMs & Text Generation](https://www.youtube.com/watch?v=mQDlCZZsOyo)  
 [Day 1 - Prompt Engineering](https://www.youtube.com/watch?v=F_hJ2Ey4BNc)  
 [Day 2 - Embeddings & Vector Stores](https://www.youtube.com/watch?v=1CC39K76Nqs)  
-[Day 3 - AI Agent - ](https://www.youtube.com/watch?v=H4gZd4BCrDQ)
+[Day 3 - AI Agent](https://www.youtube.com/watch?v=H4gZd4BCrDQ)
