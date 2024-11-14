@@ -30,7 +30,7 @@ Gemini -  綜合google 前數代產品特性
 Gemini2 - 增長context window  
 Gemini nano - 為了可攜式設備設計(便攜性)  
  
-## 開源
+### 開源
 meta、mistral ...
 
 ## Fine-tuning 為任務進行微調
