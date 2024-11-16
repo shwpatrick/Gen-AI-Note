@@ -9,6 +9,10 @@
 [Day 3 - AI Agent - Function calling with the Gemini API](https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api)  
 [Day 3 - AI Agent - Building an agent with LangGraph](https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/)
 
+[Day 4 - Google Search grounding](https://www.kaggle.com/code/markishere/day-4-google-search-grounding)
+[Day 4 - Fine tuning a custom model](https://www.kaggle.com/code/markishere/day-4-fine-tuning-a-custom-model)
+
+[Day 5 - ]
 
 # Podcast
 
