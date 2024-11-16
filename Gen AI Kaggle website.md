@@ -18,9 +18,9 @@
 
 [Day 1 - Foundational LLMs & Text Generation](https://www.youtube.com/watch?v=mQDlCZZsOyo)  
 [Day 1 - Prompt Engineering](https://www.youtube.com/watch?v=F_hJ2Ey4BNc)  
-[Day 2 - Embeddings & Vector Stores](https://www.youtube.com/watch?v=1CC39K76Nqs)  
-[Day 3 - AI Agent](https://www.youtube.com/watch?v=H4gZd4BCrDQ)
-[Day 4 - Solving Domain-Specific Problems Using LLMs](https://www.youtube.com/watch?v=b1a4ZOQ8XdI&feature=youtu.be)
-[Day 5 - Operationalizing Generative AI on Vertex AI using MLOps](https://www.youtube.com/watch?v=k9S6IhiUUj4)
+[Day 2 - Embeddings & Vector Stores](https://www.youtube.com/watch?v=1CC39K76Nqs)    
+[Day 3 - AI Agent](https://www.youtube.com/watch?v=H4gZd4BCrDQ)   
+[Day 4 - Solving Domain-Specific Problems Using LLMs](https://www.youtube.com/watch?v=b1a4ZOQ8XdI&feature=youtu.be)  
+[Day 5 - Operationalizing Generative AI on Vertex AI using MLOps](https://www.youtube.com/watch?v=k9S6IhiUUj4)  
 
 
